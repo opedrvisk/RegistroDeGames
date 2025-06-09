@@ -1,6 +1,6 @@
 # Sistema de registro de games
 
-Desenvolvido utilizando C# & .NET e SQLServer com Entity Framework. O sistema foi desenvolvido para demonstrar a utilização de boas práticas POO, aplicação de generics, migrations e manipulação com banco de dados. O projeto está em sua primeira versão e será aplicado uma API Web com ASP.NET Core Blazor, além de autenticação e autorização.
+Desenvolvido utilizando C# & .NET e SQLServer com Entity Framework. O sistema foi desenvolvido para demonstrar a utilização de boas práticas POO, aplicação de generics, migrations e manipulação com banco de dados. O projeto está em desenvolvimento e será aplicado uma versão com ASP.NETCore Blazor, além de autenticação e autorização.
 
 ---
 
