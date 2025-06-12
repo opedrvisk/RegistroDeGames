@@ -1,0 +1,13 @@
+C:\Users\Pedrovisk\Desktop\things\estudos\estudos.backend\estudos.csharp\Alura\CodesAlura\RegistroDeGames\RegistroGames.Shared.Modelos\bin\Debug\net8.0\RegistroGames.Shared.Modelos.deps.json
+C:\Users\Pedrovisk\Desktop\things\estudos\estudos.backend\estudos.csharp\Alura\CodesAlura\RegistroDeGames\RegistroGames.Shared.Modelos\bin\Debug\net8.0\RegistroGames.Shared.Modelos.dll
+C:\Users\Pedrovisk\Desktop\things\estudos\estudos.backend\estudos.csharp\Alura\CodesAlura\RegistroDeGames\RegistroGames.Shared.Modelos\bin\Debug\net8.0\RegistroGames.Shared.Modelos.pdb
+C:\Users\Pedrovisk\Desktop\things\estudos\estudos.backend\estudos.csharp\Alura\CodesAlura\RegistroDeGames\RegistroGames.Shared.Modelos\obj\Debug\net8.0\RegistroGames.Shared.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedrovisk\Desktop\things\estudos\estudos.backend\estudos.csharp\Alura\CodesAlura\RegistroDeGames\RegistroGames.Shared.Modelos\obj\Debug\net8.0\RegistroGames.Shared.Modelos.AssemblyInfoInputs.cache
+C:\Users\Pedrovisk\Desktop\things\estudos\estudos.backend\estudos.csharp\Alura\CodesAlura\RegistroDeGames\RegistroGames.Shared.Modelos\obj\Debug\net8.0\RegistroGames.Shared.Modelos.AssemblyInfo.cs
+C:\Users\Pedrovisk\Desktop\things\estudos\estudos.backend\estudos.csharp\Alura\CodesAlura\RegistroDeGames\RegistroGames.Shared.Modelos\obj\Debug\net8.0\RegistroGames.Shared.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Pedrovisk\Desktop\things\estudos\estudos.backend\estudos.csharp\Alura\CodesAlura\RegistroDeGames\RegistroGames.Shared.Modelos\obj\Debug\net8.0\RegistroGames.Shared.Modelos.sourcelink.json
+C:\Users\Pedrovisk\Desktop\things\estudos\estudos.backend\estudos.csharp\Alura\CodesAlura\RegistroDeGames\RegistroGames.Shared.Modelos\obj\Debug\net8.0\RegistroGames.Shared.Modelos.dll
+C:\Users\Pedrovisk\Desktop\things\estudos\estudos.backend\estudos.csharp\Alura\CodesAlura\RegistroDeGames\RegistroGames.Shared.Modelos\obj\Debug\net8.0\refint\RegistroGames.Shared.Modelos.dll
+C:\Users\Pedrovisk\Desktop\things\estudos\estudos.backend\estudos.csharp\Alura\CodesAlura\RegistroDeGames\RegistroGames.Shared.Modelos\obj\Debug\net8.0\RegistroGames.Shared.Modelos.pdb
+C:\Users\Pedrovisk\Desktop\things\estudos\estudos.backend\estudos.csharp\Alura\CodesAlura\RegistroDeGames\RegistroGames.Shared.Modelos\obj\Debug\net8.0\ref\RegistroGames.Shared.Modelos.dll
+C:\Users\Pedrovisk\Desktop\things\estudos\estudos.backend\estudos.csharp\Alura\CodesAlura\RegistroDeGames\RegistroGames.Shared.Modelos\obj\Debug\net8.0\RegistroGames.Shared.Modelos.csproj.AssemblyReference.cache
