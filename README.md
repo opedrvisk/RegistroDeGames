@@ -1,6 +1,6 @@
-# Sistema de registro de games
+# Sistema de Registro de Desenvolvedoras e Games
 
-Desenvolvido utilizando C# & .NET e SQLServer com Entity Framework. O sistema foi desenvolvido para demonstrar a utilização de boas práticas POO, aplicação de generics, migrations e manipulação com banco de dados. O projeto está em desenvolvimento e será aplicado uma versão com ASP.NETCore Blazor, além de autenticação e autorização.
+Desenvolvido utilizando C# & .NET e SQLServer com Entity Framework. O sistema foi desenvolvido para demonstrar a utilização de boas práticas POO, aplicação de generics, migrations, manipulação com banco de dados, Swagger, ASP.NETCore e Blazor. A versão Web do projeto também possui autenticação e autorização.
 
 ---
 
@@ -8,11 +8,11 @@ Desenvolvido utilizando C# & .NET e SQLServer com Entity Framework. O sistema fo
 
 ### Organização do sistema
 
-![image](https://github.com/user-attachments/assets/68a1b206-33fe-4bf7-b9e8-e31263d46d5a)
+![image](https://github.com/user-attachments/assets/7f6aec4d-6ddc-42a0-8986-8ec2aa0439c0)
 
 ### Organização do banco de dados
 
-![image](https://github.com/user-attachments/assets/9dbc9911-5540-410e-9f73-a51da7d4d022)
+![image](https://github.com/user-attachments/assets/b99a1b87-4885-4c53-b6c4-bedb46d08184)
 
 ### Conexão entre o .NET e SQLServer
 
@@ -40,7 +40,7 @@ Métodos utilizados para registro de desenvolvedoras e jogos.
 
 ---
 
-# Funcionamento do sistema
+# Funcionamento do sistema (versão de console)
 
 Vamos utilizar a primeira função e inserir a desenvolvedora "TeamCherry".
 
@@ -56,6 +56,8 @@ Agora, vamos conferir todas as desenvolvedoras já inseridas no banco de dados j
 
 C#
 .NET
+ASP.NETCore
+Blazor
 SQLServer
 
 
